@@ -1,0 +1,6 @@
+
+henlo1
+henlo2
+bye
+last time it didn't work
+checking if this takes my input
